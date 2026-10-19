@@ -6,9 +6,6 @@
 
 Building practical software with a focus on usability.
 
-🎓 B.E. Computer Science and Engineering<br>
-Sri Ramakrishna Engineering College
-
 [🚀 Explore my work](#-selected-projects) &nbsp; · &nbsp; [📂 Browse repositories](https://github.com/Krishna-Nandan-227?tab=repositories)
 
 </div>
@@ -17,7 +14,7 @@ Sri Ramakrishna Engineering College
 
 ## 👨‍💻 A little about me
 
-I'm a Computer Science and Engineering student based in Coimbatore, India. I enjoy turning ideas into useful applications, from Android tools to interactive web experiences.
+I build Android and web applications, turning ideas into useful tools and interactive experiences.
 
 My interests include software development, applied AI, and the security of healthcare technology. I value clear interfaces, thoughtful features, and learning by building.
 
